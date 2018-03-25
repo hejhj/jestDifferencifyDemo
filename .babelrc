@@ -1,0 +1,6 @@
+{
+  "env": {},
+  "ignore": [],
+  "plugins": [],
+  "presets": ["es2015"]
+}
