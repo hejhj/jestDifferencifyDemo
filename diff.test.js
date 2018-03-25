@@ -7,7 +7,7 @@ describe('tests differencify', () => {
       .init()
       .launch()
 	  .newPage()
-      .goto('https://google.com')
+      .goto('https://github.com/NimaSoroush/differencify')
       .screenshot()
       .toMatchSnapshot()
       .close()
